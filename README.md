@@ -14,7 +14,7 @@ This project demonstrates an end-to-end data pipeline using **Google BigQuery** 
 - SQL (Standard)
 - Google Cloud Platform (GCP)
 - Google Colab (optional)
-- CSV Dataset from [Kaggle](https://www.kaggle.com/datasets/thedevastator/customer-retail-dataset)
+- CSV Dataset from [Kaggle](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data?select=sales_data.csv)
 
 ## 📊 Key SQL Highlights
 ```sql
