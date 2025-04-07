@@ -17,7 +17,7 @@ The project includes data upload, SQL-based transformations (ETL), and business-
 - Google BigQuery
 - SQL (Standard)
 - Google Cloud Platform (GCP)
-- Google Colab (optional)
+- Google Colab
 - CSV Dataset from [Kaggle](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data?select=sales_data.csv)
 
 ## 📊 Key SQL Highlights
