@@ -1,4 +1,8 @@
-This project demonstrates an end-to-end data pipeline using **Google BigQuery** to analyze over **500,000+ retail transactions** across U.S. shopping malls. The goal was to build a customer-centric analytical database and extract actionable insights for business decisions.
+Sales & Customer Analytics with Google BigQuery
+
+This project showcases a cloud-native analytics pipeline built using Google BigQuery, analyzing structured customer and sales datasets sourced from Kaggle. It combines transactional and demographic data to uncover insights on top-selling product categories, customer behavior by gender and age, and sales performance across different shopping malls.
+
+The project includes data upload, SQL-based transformations (ETL), and business-driven querying. Results were visualized using BigQuery’s charting tools and exported to Google Sheets for interactive reporting.
 
 ## 📂 Project Overview
 - Imported and staged CSV files of `sales` and `customer` data into BigQuery.
